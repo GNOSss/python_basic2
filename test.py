@@ -1,1 +1,8 @@
-print("Hello World!!!")
+# 아무 파이썬 파일
+# 만약 가상환경에서 numpy를 설치하고
+# 기존환경에서 numpy를 설치 하지 않았다 ?
+# 그렇다면 가상환경 터미널에서만 작동 가능할테고 기존환경에서는 작동하지 않는다.
+import numpy as np
+
+
+print(np)

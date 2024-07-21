@@ -1,0 +1,20 @@
+{
+    "name": "\ud64d\uae38\ub3d9",
+    "age": 30,
+    "is_employee": true,
+    "education": [
+        {
+            "school": "\ub099\uc131\ub300",
+            "degree": "bachelor"
+        },
+        {
+            "school": "\ud0dc\uc885\ub300",
+            "degree": "master"
+        }
+    ],
+    "skills": [
+        "Python",
+        "Machine Learning",
+        "Web Development"
+    ]
+}
