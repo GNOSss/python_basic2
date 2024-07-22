@@ -6,3 +6,6 @@ def dfdf():
 
 
 print("Triplesss")
+
+
+print("Triplesss")
