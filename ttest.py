@@ -9,3 +9,8 @@ print("Triplesss")
 
 
 print("Triplesss")
+
+print("Triplesss")
+print("Triplesss")
+
+
